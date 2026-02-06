@@ -30,10 +30,15 @@ This project helps users manage daily tasks efficiently and uses **Browser Local
 TO-DO-LIST-MAIN/
 │
 ├── index.html # Main HTML file
+
 ├── style.css # CSS styling file
+
 ├── app.js # JavaScript logic
+
 ├── todo icon.png # App icon
+
 ├── checked.png # Checked task icon
+
 └── unchecked.png # Unchecked task icon
 ---
 
