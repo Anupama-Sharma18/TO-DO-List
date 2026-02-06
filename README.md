@@ -18,6 +18,10 @@ This project helps users manage daily tasks efficiently and uses **Browser Local
 ## Screanshots
 <img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/148c7538-6874-44d9-ac00-4a985c672c11" />
 
+<img width="1916" height="879" alt="image" src="https://github.com/user-attachments/assets/ef462bcb-eff9-4f6b-8f0c-e2e5116cb4f3" />
+
+<img width="1904" height="884" alt="image" src="https://github.com/user-attachments/assets/50a7a13b-f697-45df-a74d-71844ff63a0f" />
+
 
 ## 🛠️ Technologies Used
 
