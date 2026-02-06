@@ -15,6 +15,9 @@ This project helps users manage daily tasks efficiently and uses **Browser Local
 - ⚡ Lightweight and fast (No frameworks)
 
 ---
+## Screanshots
+<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/148c7538-6874-44d9-ac00-4a985c672c11" />
+
 
 ## 🛠️ Technologies Used
 
